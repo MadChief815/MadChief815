@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋  
 
-<!--
-**MadChief815/MadChief815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **React Native Mobile App Developer** 📱 and **React Web Developer** 💻 with a passion for building high-performance, user-friendly applications.  
+I specialize in **cross-platform mobile apps** and **responsive web applications**, ensuring smooth and efficient experiences.  
 
-Here are some ideas to get you started:
+## 🚀 What I Do  
+🔹 **Develop** scalable **React Native** mobile apps  
+🔹 **Create** sleek and responsive **React** web applications  
+🔹 **Manage state** efficiently with **Redux / Zustand**  
+🔹 **Integrate** **Firebase & APIs** for seamless backend solutions  
+🔹 **Optimize performance** for **better UX**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I Love  
+💡 **Exploring** new technologies to enhance user experience  
+🛠 **Building** personal projects to solve real-world problems  
+🌍 **Contributing** to open-source and learning from the community  
+
+## 📬 Let's Connect  
+If you’re interested in working together or just want to chat, feel free to reach out! 😄  
+
+---
+
+**💻 Happy Coding! 🚀**  
+### ~ Deshan Anuruddha (MadChief815)
